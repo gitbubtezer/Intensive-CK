@@ -1,0 +1,92 @@
+[
+  {
+   "name": "name 1",
+   "img": "img 1",
+   "desc": "desc 1",
+   "salePrice": 38,
+   "originalPrice": 17,
+   "isHot": false,
+   "id": "1"
+  },
+  {
+   "name": "name 2",
+   "img": "img 2",
+   "desc": "desc 2",
+   "salePrice": 37,
+   "originalPrice": 51,
+   "isHot": false,
+   "id": "2"
+  },
+  {
+   "name": "name 3",
+   "img": "img 3",
+   "desc": "desc 3",
+   "salePrice": 63,
+   "originalPrice": 64,
+   "isHot": false,
+   "id": "3"
+  },
+  {
+   "name": "name 4",
+   "img": "img 4",
+   "desc": "desc 4",
+   "salePrice": 6,
+   "originalPrice": 69,
+   "isHot": false,
+   "id": "4"
+  },
+  {
+   "name": "name 5",
+   "img": "img 5",
+   "desc": "desc 5",
+   "salePrice": 24,
+   "originalPrice": 73,
+   "isHot": false,
+   "id": "5"
+  },
+  {
+   "name": "name 6",
+   "img": "img 6",
+   "desc": "desc 6",
+   "salePrice": 66,
+   "originalPrice": 2,
+   "isHot": false,
+   "id": "6"
+  },
+  {
+   "name": "name 7",
+   "img": "img 7",
+   "desc": "desc 7",
+   "salePrice": 8,
+   "originalPrice": 21,
+   "isHot": false,
+   "id": "7"
+  },
+  {
+   "name": "name 8",
+   "img": "img 8",
+   "desc": "desc 8",
+   "salePrice": 93,
+   "originalPrice": 54,
+   "isHot": false,
+   "id": "8"
+  },
+  {
+   "name": "name 9",
+   "img": "img 9",
+   "desc": "desc 9",
+   "salePrice": 36,
+   "originalPrice": 53,
+   "isHot": false,
+   "id": "9"
+  },
+  {
+   "name": "name 10",
+   "img": "img 10",
+   "desc": "desc 10",
+   "salePrice": 80,
+   "originalPrice": 14,
+   "isHot": false,
+   "id": "10"
+  }
+ ]

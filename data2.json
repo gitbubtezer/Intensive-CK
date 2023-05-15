@@ -1,0 +1,176 @@
+[{
+        "name": "Xiaomi Redmi A10",
+        "img": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture//Apro/Apro_product_23768/xiaomi-redmi-no_main_214_1020.png.webp",
+        "desc": "Xiaomi Redmi 10A ra mắt tại thị trường Việt Nam vào tháng 07/2022, với ưu điểm là sở hữu pin trâu cùng một màn hình kích thước lớn giúp máy trở thành một smartphone lý tưởng cho những bạn đang tìm mua một thiết bị phục vụ nghe gọi hay xem phim cả ngày. Cùng với đó là giá thành phải chăng để người dùng có thể dễ dàng tiếp cận và mua sắm.",
+        "salePrice": 2190000,
+        "originalPrice": 2890000,
+        "isHot": true,
+        "id": "1",
+        "brand": "XIAOMI",
+        "type": "PHONE"
+    },
+    {
+        "name": "Acer Nitro 5",
+        "img": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/263980/TimerThumb/acer-nitro-5-gaming-an515-45-r6ev-r5-nhqbmsv006-(46).jpg",
+        "desc": "Phá cách với diện mạo mạnh mẽ đến từ laptop Acer Nitro 5 Gaming AN515 45 R6EV R5 5600H (NH.QBMSV.006) mang đến cho người dùng hiệu năng ổn định, hỗ trợ bạn trong mọi tác vụ hằng ngày hay chiến những trận game cực căng một cách mượt mà.",
+        "salePrice": 19240000,
+        "originalPrice": 22400000,
+        "isHot": true,
+        "id": "2",
+        "brand": "ACER",
+        "type": "LAPTOP"
+    },
+    {
+        "name": "Iphone Plus 14",
+        "img": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/289712/iPhone-14-plus-thumb-xanh-600x600.jpg",
+        "desc": "iPhone 14 Plus 512GB có lẽ là cái tên không quá xa lạ đối với các tín đồ công nghệ bởi mức độ nổi tiếng gần như toàn cầu, khi vừa ra mắt sản phẩm đã tạo nên cơn sốt chưa từng có trong năm 2022 trên thị trường di động. Điện thoại sở hữu một con chip hiệu năng cao cùng bộ camera chất lượng giúp máy có thể đáp ứng tốt cho bạn đối với mọi tác vụ.        ",
+        "salePrice": 26990000,
+        "originalPrice": 36990000,
+        "isHot": false,
+        "id": "3",
+        "brand": "APPLE",
+        "type": "PHONE"
+    },
+    {
+        "name": "Laptop MSI Modern 14 B11MOU i3 1115G4/8GB/256GB/Win11 (1027VN)",
+        "img": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/266898/msi-modern-14-b11mou-i3-1115g4-8gb-600x600.jpg",
+        "desc": "Laptop MSI Modern 14 B11MOU i3 (1027VN) là phiên bản laptop phổ thông được nhà MSI cho ra mắt với sứ mệnh phục vụ tốt mọi tác vụ thiết yếu cơ bản hằng ngày của người dùng khi sở hữu cấu hình ổn định đến từ con chip Intel Gen 11 cùng ngoại hình trang nhã, thời thượng và mang tính di động cao.",
+        "salePrice": 11290000,
+        "originalPrice": 13990000,
+        "isHot": false,
+        "id": "4",
+        "brand": "MSI",
+        "type": "LAPTOP"
+    },
+    {
+        "name": "Adapter Sạc Type C PD 20W Xmobile TC20P Hồng ",
+        "img": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/9499/232817/adapter-sac-type-c-pd-20w-xmobile-tc20p-hong-avatar-1-600x600.jpg",
+        "desc": "Chất liệu vỏ adapter cách điện, jack 2 chấu phổ biến, cầm nắm vừa tay, đảm bảo an toàn và sự thoải mái khi cắm adapter vào các ổ điện ở nhà, công sở, nhà hàng hay khách sạn mà bạn ghé qua.",
+        "salePrice": 87000,
+        "originalPrice": 39000,
+        "isHot": false,
+        "id": "5",
+        "brand": "XMOBILE",
+        "type": "CHARGER"
+    },
+    {
+        "name": "Đồng hồ Q&Q 33 mm Unisex VP34J016Y",
+        "img": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7264/213758/q-q-vp34j016y-nam-1-600x600.jpg",
+        "desc": "Q&Q là thương hiệu đồng hồ nổi tiếng Nhật Bản, họ kết hợp 2 đặc điểm trên thông qua việc tạo ra những chiếc đồng hồ chất lượng, đáng tin cậy và sản xuất ra số lượng đồng hồ để phục vụ mọi người trên thế giới. Sứ mệnh của đồng hồ Q&Q là làm phong phú cuộc sống hàng ngày của tất cả mọi người bằng cách cung cấp những bộ sưu tập giá cả phải chăng đến mọi người ở mọi nơi trên thế giới.",
+        "salePrice": 149000,
+        "originalPrice": 200000,
+        "isHot": true,
+        "id": "6",
+        "brand": "Q&Q",
+        "type": "WATCH"
+    },
+    {
+        "name": "Điện thoại OPPO A57 128GB",
+        "img": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/285082/oppo-a57-den-thumb-600x600.jpeg",
+        "desc": "desc 7",
+        "salePrice": 4500000,
+        "originalPrice": 4990000,
+        "isHot": false,
+        "id": "7",
+        "brand": "OPPO",
+        "type": "PHONE"
+    },
+    {
+        "name": "POCO P40",
+        "img": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/277057/xiaomi-poco-c40-thumb-vang-600x600.jpg",
+        "desc": "Tháng 06/2022 điện thoại POCO C40 đã chính thức được cho ra mắt tại thị trường Việt Nam, sở hữu màn hình kích thước lớn, viên pin dung lượng khủng và một con chip JR510 mới lạ trên thị trường công nghệ hiện nay.",
+        "salePrice": 2900000,
+        "originalPrice": 3490000,
+        "isHot": false,
+        "id": "8",
+        "brand": "POCO",
+        "type": "PHONE"
+    },
+    {
+        "name": "S23 5G 256Gb",
+        "img": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/264060/samsung-galaxy-s23-600x600.jpg",
+        "desc": "Samsung Galaxy S23 có thể xem là cái tên mở màn cho dòng điện thoại cao cấp được nhà Samsung giới thiệu vào dịp đầu năm 2023, kể từ lúc chính thức ra mắt máy nhận được khá nhiều sự quan tâm với hàng loạt thông tin cấu hình hết sức nổi bật như con chip hàng đầu Qualcomm cùng bộ camera siêu chất lượng.",
+        "salePrice": 19000000,
+        "originalPrice": 24000000,
+        "isHot": true,
+        "id": "9",
+        "brand": "SAMSUNG",
+        "type": "PHONE"
+    },
+    {
+        "name": "Iphone 14 Pro Max",
+        "img": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-vang-thumb-600x600.jpg",
+        "desc": "Cuối cùng thì chiếc iPhone 14 Pro Max cũng đã chính thức lộ diện tại sự kiện ra mắt thường niên vào ngày 08/09 đến từ nhà Apple, kết thúc bao lời đồn đoán bằng một bộ thông số cực kỳ ấn tượng cùng vẻ ngoài đẹp mắt sang trọng. Từ ngày 14/10/2022 người dùng đã có thể mua sắm các sản phẩm iPhone 14 series với đầy đủ phiên bản tại Thế Giới Di Động.",
+        "salePrice": 29490000,
+        "originalPrice": 34440000,
+        "isHot": true,
+        "id": "10",
+        "brand": "APPLE",
+        "type": "PHONE"
+    },
+    {
+        "name": "Samsung S22 Ultra",
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/m/sm-s908_galaxys22ultra_front_burgundy_211119.jpg",
+        "desc": "Trước khi chính thức ra mắt cộng đồng những chiếc điện thoại Samsung S22 Series đã có thời gian được thai nghén khá dài để đảm bảo có những tính năng thực sự vượt trội so với phiên bản tiền nhiệm.",
+        "salePrice": 20590000,
+        "originalPrice": 30000000,
+        "isHot": true,
+        "id": "11",
+        "brand": "SAMSUNG",
+        "type": "PHONE"
+    },
+    {
+        "name": "Xiaomi 13",
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/p/m/pms_1670745783.80967984.png",
+        "desc": "là sản phẩm mới được trang bị màn hình OLED kích thước 6.36 inch cùng tần số quét lên đến 120Hz. Bên trong Xiaomi 13 là con chip Snapdragon 8 Gen 2 mới nhất cùng bộ nhớ RAM 8GB vượt trội. Điện thoại cũng đáp ứng tốt khả năng nhiếp ảnh với camera Leica 50MP.",
+        "salePrice": 18900000,
+        "originalPrice": 20000000,
+        "isHot": false,
+        "id": "12",
+        "brand": "XIAOMI",
+        "type": "PHONE"
+    },
+    {
+        "name": "Samsung Galaxy M14 5G 4GB 128GB",
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/l/b/lb-galaxy-m14-sm-m146-sm-m146bzbvmea-535834833.png",
+        "desc": "desc 13",
+        "salePrice": 4600000,
+        "originalPrice": 5200000,
+        "brand": "SAMSUNG",
+        "type": "PHONE",
+        "isHot": false,
+        "id": "13"
+    },
+    {
+        "name": "realme 9 Pro",
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/r/e/real_me_pro_002.jpg",
+        "desc": "desc 14",
+        "salePrice": 4500000,
+        "originalPrice": 5000000,
+        "isHot": false,
+        "brand": "REALME",
+        "type": "PHONE",
+        "id": "14"
+    },
+    {
+        "name": "Xiaomi Redmi Note 11S",
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/f/r/frame37917-640x640_1_.png",
+        "desc": "desc 15",
+        "salePrice": 8300000,
+        "originalPrice": 10000000,
+        "brand": "XIAOMI",
+        "isHot": false,
+        "id": "15"
+    },
+    {
+        "name": "iPhone 12 64GB",
+        "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/1/_/1_252.jpg",
+        "desc": "desc 16",
+        "salePrice": 14000000,
+        "originalPrice": 16000000,
+        "brand": "APPLE",
+        "type": "PHONE",
+        "isHot": true,
+        "id": "16"
+    }
+]
